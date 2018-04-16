@@ -16,7 +16,7 @@
     "deploy",
     "git"
   ],
-  "author": "EdisonTKP",
+  "author": "EdisonTKP <im@edisontkp.com> (http://edisontkp.com)",
   "license": "MIT",
   "homepage": "https://bitbucket.org/EdisonTKPcom/autodeploy-node#readme"
 }
