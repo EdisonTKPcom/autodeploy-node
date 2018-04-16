@@ -1,0 +1,22 @@
+{
+  "name": "autodeploy-node",
+  "version": "0.0.1",
+  "description": "AutoDeploy-Node is package for developers to have automatically deploy nodejs code from git server with webhook to production server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://EdisonTKPcom@bitbucket.org/EdisonTKPcom/autodeploy-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "auto",
+    "deploy",
+    "git"
+  ],
+  "author": "EdisonTKP",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/EdisonTKPcom/autodeploy-node#readme"
+}
